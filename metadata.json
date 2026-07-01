@@ -1,0 +1,6 @@
+{
+  "name": "Artisanal Restaurant Website",
+  "description": "A comprehensive and engaging restaurant website featuring an interactive menu, reservation system, contact forms, customer reviews, and responsive modern design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
